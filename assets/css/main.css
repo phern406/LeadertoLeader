@@ -42,7 +42,6 @@ blockquote, q {
 }
 
 
-
 /* Nav */
 
 #nav {
@@ -2944,6 +2943,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 480px) {
 
+
 			ul.actions:not(.fixed) {
 				-moz-flex-direction: column;
 				-webkit-flex-direction: column;
@@ -2991,8 +2991,15 @@ input, select, textarea {
 							margin-left: -0.5rem;
 						}
 
-		}
 
+					
+							
+							
+						
+						
+					}
+
+				
 /* Icons */
 
 	ul.icons {
@@ -8721,3 +8728,5 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+			
